@@ -1,4 +1,4 @@
-##My First Ruby On Rails (ROR) Application
+<h1>My First Ruby On Rails (ROR) Application</h1>
 
 It’s a platform where you could search and meet like-minded people.
 
